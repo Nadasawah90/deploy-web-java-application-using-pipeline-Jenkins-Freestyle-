@@ -17,6 +17,13 @@ No need to write code.
 The official Jenkins repo doesn’t yet serve full systemd configs for RHEL 9.
 So we’ll manually fetch the proper package and set up the missing config.
 
+Perfect 🔥 You’re moving toward a CI/CD pipeline with Jenkins and Kubernetes (kubeadm cluster). Let’s make this step by step so it’s clear and deploys cleanly.
+
+We’ll cover how to:
+✅ Install and prepare Jenkins for pipeline builds
+✅ Deploy your app to Kubernetes via Jenkins
+✅ Understand difference between Freestyle and Pipeline (Jenkinsfile) in this context
+
 Step 1. Download the latest stable Jenkins RPM
 cd /tmp
 sudo dnf install -y wget
@@ -69,6 +76,14 @@ sudo tail -f /var/log/jenkins/jenkins.log
 root@master01 tmp]# cat /var/lib/jenkins/secrets/initialAdminPassword
 
 530648beaa2744bc8e8a160ebe7100b6
+
+<img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/04e8213b-2e9b-4f35-af49-84600347a5ca" />
+
+<img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/9667f4f2-5a86-463e-b3c5-314c08ce3874" />
+
+<img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/b2bde272-05b4-4d99-9bc4-444ffdc9fa1b" />
+
+
 
 
 
