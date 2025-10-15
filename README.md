@@ -63,3 +63,6 @@ Jenkins is fully up and running
 Check log:
 
 sudo tail -f /var/log/jenkins/jenkins.log
+
+<img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/6d8fbd98-4409-46b2-94f9-1a1a984cc69e" />
+
