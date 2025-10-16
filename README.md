@@ -55,6 +55,18 @@ root@master01 tmp]# cat /var/lib/jenkins/secrets/initialAdminPassword
 
 <img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/456076bc-6d31-4112-b7d2-331b6b2f08db" />
 
+7- the first stage will be for build code as the below configuration :
+
+<img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/2e88b5ba-f070-4128-a41c-13143d87537b" />
+
+8- and the second stage to be deployed it on the kubernated as below using my repository to get yaml files for my apps   : 
+
+<img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/7ee55855-655d-4373-bafd-3a8af8c67fc6" />
+
+<img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/56c323f7-c41c-4f89-ab48-9cb1abb53538" />
+
+9- follow the process and deployment of application : 
+
 <img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/a4b47d33-b571-414f-bad4-b597df19333e" />
 
 <img width="1920" height="1039" alt="image" src="https://github.com/user-attachments/assets/efcbb000-d73e-440d-a605-97bac83d7393" />
