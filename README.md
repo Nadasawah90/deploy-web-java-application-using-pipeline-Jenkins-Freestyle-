@@ -51,9 +51,22 @@ root@master01 tmp]# cat /var/lib/jenkins/secrets/initialAdminPassword
 
 <img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/9667f4f2-5a86-463e-b3c5-314c08ce3874" />
 
+no it is ready to use but need to install the plugins like Kubernates .
+
+<img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/8481a259-691b-41e7-bc4a-9ff0e0351b67" />
+
+
 <img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/b2bde272-05b4-4d99-9bc4-444ffdc9fa1b" />
 
 <img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/456076bc-6d31-4112-b7d2-331b6b2f08db" />
+
+<img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/8481a259-691b-41e7-bc4a-9ff0e0351b67" />
+
+and after that need to connect to the kubernates as the belwo : 
+
+<img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/d8d74fe8-2aa3-4729-9599-998475d49718" />
+
+now we startd my CI/CD Pipline in two stages  : 
 
 7- the first stage will be for build code as the below configuration :
 
