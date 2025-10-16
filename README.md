@@ -83,11 +83,15 @@ root@master01 tmp]# cat /var/lib/jenkins/secrets/initialAdminPassword
 
 <img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/b2bde272-05b4-4d99-9bc4-444ffdc9fa1b" />
 
-![Uploading image.png…]()
+
 
 
 
 <img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/456076bc-6d31-4112-b7d2-331b6b2f08db" />
 
+<img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/a4b47d33-b571-414f-bad4-b597df19333e" />
+
+
+<img width="1920" height="1039" alt="image" src="https://github.com/user-attachments/assets/efcbb000-d73e-440d-a605-97bac83d7393" />
 
 
