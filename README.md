@@ -94,4 +94,7 @@ root@master01 tmp]# cat /var/lib/jenkins/secrets/initialAdminPassword
 
 <img width="1920" height="1039" alt="image" src="https://github.com/user-attachments/assets/efcbb000-d73e-440d-a605-97bac83d7393" />
 
+<img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/d62755ed-8b8a-4b88-a04d-4bf40812c561" />
+
+
 
