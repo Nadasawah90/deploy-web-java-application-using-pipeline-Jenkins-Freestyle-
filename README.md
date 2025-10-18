@@ -2,6 +2,9 @@
 
 We are  moving toward a CI/CD pipeline with Jenkins and Kubernetes (kubeadm cluster) to Deploymyapp to Kubernetes via Jenkins .
 
+<img width="647" height="328" alt="image" src="https://github.com/user-attachments/assets/e703a438-8cc1-47ae-bfc2-0dce80744c5d" />
+
+
 A Freestyle project is the old, GUI-based way to create jobs in Jenkins as we configure everything through the Jenkins web interface (no code).
 
 ### Steps : 
